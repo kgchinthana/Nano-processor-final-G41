@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1660759278">
+  <File Type="BITSTR-BMM" Name="Control_Unit_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="Control_Unit_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="Control_Unit_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR" Name="Control_Unit_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="Control_Unit.tcl"/>
+  <File Type="OPT-TIMING" Name="Control_Unit_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="Control_Unit_opt.dcp"/>
+  <File Type="ROUTE-PWR-SUM" Name="Control_Unit_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="Control_Unit_reports.tcl"/>
+  <File Type="OPT-DRC" Name="Control_Unit_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="Control_Unit.hwdef"/>
+  <File Type="PWROPT-DCP" Name="Control_Unit_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="Control_Unit_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="Control_Unit_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="Control_Unit_placed.dcp"/>
+  <File Type="PLACE-IO" Name="Control_Unit_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="Control_Unit_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="Control_Unit_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="Control_Unit_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="Control_Unit_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="Control_Unit_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="Control_Unit_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BG-BGN" Name="Control_Unit.bgn"/>
+  <File Type="PLACE-TIMING" Name="Control_Unit_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="Control_Unit_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="Control_Unit.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="Control_Unit_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="Control_Unit_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="Control_Unit_drc_physopted.rpt"/>
+  <File Type="BITSTR-MSK" Name="Control_Unit.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="Control_Unit_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="Control_Unit_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="Control_Unit_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="Control_Unit_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="Control_Unit_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="Control_Unit_drc_routed.pb"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="Control_Unit.ltx"/>
+  <File Type="ROUTE-DRC-RPX" Name="Control_Unit_drc_routed.rpx"/>
+  <File Type="BITSTR-MMI" Name="Control_Unit.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="Control_Unit_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="Control_Unit_methodology_drc_routed.rpx"/>
+  <File Type="BITSTR-SYSDEF" Name="Control_Unit.sysdef"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="Control_Unit_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="Control_Unit_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="Control_Unit_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="Control_Unit_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="Control_Unit_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="Control_Unit_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="Control_Unit_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="Control_Unit_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="Control_Unit_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="Control_Unit_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="Control_Unit_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="Control_Unit_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="Control_Unit_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="Control_Unit_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="Control_Unit_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="Control_Unit_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="Control_Unit_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="Control_Unit_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="Control_Unit_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="Control_Unit.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="Control_Unit_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-RBT" Name="Control_Unit.rbt"/>
+  <File Type="BITSTR-NKY" Name="Control_Unit.nky"/>
+  <File Type="BG-DRC" Name="Control_Unit.drc"/>
+  <File Type="RDI-RDI" Name="Control_Unit.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/imports/new/Add_3.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../new nano processor/3 bit adder/Lab10/Lab10.srcs/sources_1/new/Add_3.vhd"/>
+        <Attr Name="ImportTime" Val="1659377980"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/Add_Sub.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../new nano processor/add_sub_unit/add_sub_unit.srcs/sources_1/new/Add_Sub.vhd"/>
+        <Attr Name="ImportTime" Val="1659128057"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/imports/new/D_FF.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../Lab9/Lab9.srcs/sources_1/imports/new/D_FF.vhd"/>
+        <Attr Name="ImportTime" Val="1655727294"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/imports/new/Decode_3_to_8.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../Lab9New/Lab9New.srcs/sources_1/imports/new/Decode_3_to_8.vhd"/>
+        <Attr Name="ImportTime" Val="1657424462"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/imports/new/Decoder_2_to_4.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../Lab9New/Lab9New.srcs/sources_1/imports/new/Decoder_2_to_4.vhd"/>
+        <Attr Name="ImportTime" Val="1654329540"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/Decoder_3x8.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../Extend/Extend.srcs/sources_1/new/Decoder_3x8.vhd"/>
+        <Attr Name="ImportTime" Val="1659125381"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/imports/new/FA.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../new nano processor/add_sub_unit/add_sub_unit.srcs/sources_1/imports/new/FA.vhd"/>
+        <Attr Name="ImportTime" Val="1653597183"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/imports/new/HA.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../new nano processor/add_sub_unit/add_sub_unit.srcs/sources_1/imports/new/HA.vhd"/>
+        <Attr Name="ImportTime" Val="1653594286"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/LUT_16_7_.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../labs/LAB7/LAB7.srcs/sources_1/new/LUT_16_7_.vhd"/>
+        <Attr Name="ImportTime" Val="1656513129"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/imports/new/Mux_x.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../Lab9New/Lab9New.srcs/sources_1/imports/new/Mux_x.vhd"/>
+        <Attr Name="ImportTime" Val="1659546173"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Nano_processor.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../Nano_processor_new/Nano_processor/Nano_processor.srcs/sources_1/new/Nano_processor.vhd"/>
+        <Attr Name="ImportTime" Val="1659555315"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/new/Program_Counter.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../Lab9/Lab9.srcs/sources_1/new/Program_Counter.vhd"/>
+        <Attr Name="ImportTime" Val="1659542876"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/imports/new/RCA_4_add_sub.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../new nano processor/add_sub_unit/add_sub_unit.srcs/sources_1/imports/new/RCA_4_add_sub.vhd"/>
+        <Attr Name="ImportTime" Val="1659126465"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/imports/new/ROM.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../nano processor files/Backup 7.2 - Copy/Nano processor/Nano processor.srcs/sources_1/imports/new/ROM.vhd"/>
+        <Attr Name="ImportTime" Val="1658781803"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/Register.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../Extend/Extend.srcs/sources_1/new/Register.vhd"/>
+        <Attr Name="ImportTime" Val="1659125930"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/Register_Bank.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../Extend/Extend.srcs/sources_1/new/Register_Bank.vhd"/>
+        <Attr Name="ImportTime" Val="1659125582"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/imports/new/Slow_Clk.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../labs/Lab6/Lab6.srcs/sources_1/imports/new/Slow_Clk.vhd"/>
+        <Attr Name="ImportTime" Val="1655745733"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/inst_decoder_unit.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../new nano processor/inst_decoder_unit/inst_decoder_unit.srcs/sources_1/new/inst_decoder_unit.vhd"/>
+        <Attr Name="ImportTime" Val="1659383109"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/imports/new/mux_2_1_add_sub.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../new nano processor/add_sub_unit/add_sub_unit.srcs/sources_1/imports/new/mux_2_1_add_sub.vhd"/>
+        <Attr Name="ImportTime" Val="1659124031"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/mux_2_1_x.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../Lab9New/Lab9New.srcs/sources_1/new/mux_2_1_x.vhd"/>
+        <Attr Name="ImportTime" Val="1659545420"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/mux_2_3_x.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../Lab9New/Lab9New.srcs/sources_1/new/mux_2_3_x.vhd"/>
+        <Attr Name="ImportTime" Val="1659546024"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/imports/new/mux_2_4.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../new nano processor/add_sub_unit/add_sub_unit.srcs/sources_1/imports/new/mux_2_4.vhd"/>
+        <Attr Name="ImportTime" Val="1659124224"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/mux_2_4_x.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../Lab9New/Lab9New.srcs/sources_1/new/mux_2_4_x.vhd"/>
+        <Attr Name="ImportTime" Val="1659545553"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/mux_8_4_x.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../Lab9New/Lab9New.srcs/sources_1/new/mux_8_4_x.vhd"/>
+        <Attr Name="ImportTime" Val="1659546069"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Control_Unit.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../Nano_processor_new/Nano_processor/Nano_processor.srcs/sources_1/new/Control_Unit.vhd"/>
+        <Attr Name="ImportTime" Val="1659554884"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="Control_Unit"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/imports/Lab8/Basys3Labs.xdc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../labs/Lab8/Basys3Labs.xdc"/>
+        <Attr Name="ImportTime" Val="1655126017"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2018"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
